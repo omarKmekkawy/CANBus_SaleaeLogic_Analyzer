@@ -78,7 +78,7 @@ when the program finds any data on the CAN bus, the window will tell you that it
 
 Now after the sampling period is ended, the data will be shown on the program like this.
 
-<img src="./Pictures/Sampled_Data.jpg" width="1920" height="1040">
+<img src="./Pictures/Sampled_Data.jpg" width="1000" height="800">
 
 Happy Reverse Engineering :upside_down_face::joy:.
 
