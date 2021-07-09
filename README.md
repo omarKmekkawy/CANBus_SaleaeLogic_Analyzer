@@ -23,7 +23,7 @@ Examples for CAN transceiver modules:
 | CTX  | Not Connected |
 | CRX  | Connect to any Saleae Logic's digital pin |
 | CANH  | Connect CANH to the CAN Bus to be sniffed |
-| SCK  | Connect CANL to the CAN Bus to be sniffed |
+| CANL  | Connect CANL to the CAN Bus to be sniffed |
 | S  | Not Connected |
 | NC | Not Connected |
 
